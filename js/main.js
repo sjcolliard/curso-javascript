@@ -18,7 +18,7 @@ if (respuesta == "y") {
         if (solucionDos == "have you seen" || solucionDos == "Have you seen" || solucionDos == "HAVE YOU SEEN") {
             alert("¡Excelente! Vamos que solo queda una última pregunta");
 
-            let solucionTres = prompt("2) Present perfect: 'He ... (be) happier if he had stayed home'. Escribe a continuación tu respuesta: ");
+            let solucionTres = prompt("3) Third conditional: 'He ... (be) happier if he had stayed home'. Escribe a continuación tu respuesta: ");
             if (solucionTres == "would have been") {
                 alert("¡Felicitaciones! Tu nivel es alto");
 
