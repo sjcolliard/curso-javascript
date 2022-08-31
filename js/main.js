@@ -37,4 +37,3 @@ if (respuesta == "y") {
 } else if (respuesta == "n") {
     alert("Gracias por visitar la página");
 }
-
